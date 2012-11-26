@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+# emacs files
+*.#*
+*~
+
+# other shit
+a.out
