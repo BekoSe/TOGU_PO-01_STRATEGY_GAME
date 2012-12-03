@@ -1,0 +1,17 @@
+DIRECTIONS: 8
+ANIMATIONS: 1
+
+   FRAMES 30
+
+   NAME "anubis_0g"
+   NAME "anubis_315g"
+   NAME "anubis_270g"
+   NAME "anubis_225g"
+   NAME "anubis_180g"
+   NAME "anubis_135g"
+   NAME "anubis_90g"
+   NAME "anubis_45g"
+
+MAP_SIZE 1024 1024
+
+
